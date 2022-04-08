@@ -17,6 +17,7 @@ file of ppi,like...
 | 0  | STIM1 | TRPC1 | 0.597177 |
 | 1  | ATP2B4 | NOS1 | 0.520836 |
 | 3  | ... | ... | ... |
+For ppi network preprocessing, please refer to [EMOGI](https://github.com/schulter/EMOGI/tree/master/network_preprocessing)
 ## expression: exp.csv
 data can download by [RNAseqDB](https://github.com/mskcc/RNAseqDB)\
 Preliminary processing of data that has been described by the following structure is required.\
@@ -27,4 +28,3 @@ Gene expression data from TCGA cancer patients
 | gene2  | val3 | val4 | ... |
 | gene3  | ... | ... | ... |
 
-For ppi network preprocessing, please refer to [EMOGI](https://github.com/schulter/EMOGI/tree/master/network_preprocessing)
