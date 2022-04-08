@@ -6,3 +6,5 @@ ran_gcn.py: details about model training\
 prepare_data.py: details about data preprocessing\
 layers.py & models.py: our GCN models\
 nnet_survival.py: how to make loss function. Some of the content is quoted from [nnet_survival](https://github.com/MGensheimer/nnet-survival)
+
+The code is expected to be uploaded within a week!🤓
