@@ -1,4 +1,4 @@
-This is the code of paper "Cancer survival prediction via graph convolu- tional neural networks learning on protein-pro- tein interaction networks".
+This is the code of paper "Cancer survival prediction via graph convolutional neural networks learning on protein-protein interaction networks".
 
 you can run "train.sh" to execute the experiment, but make sure you have completed the README operation in the data directory
 
