@@ -1,0 +1,1 @@
+python3 train_gcn.py --b 0 --epochs 1000
